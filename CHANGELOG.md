@@ -17,6 +17,9 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 - URL-hash routing and shareable boards; responsive mobile layout
 - 68 Vitest tests; CI runs typecheck, tests and build; Pages deploys the Vite build
 
+### Fixed
+- Pages workflow split into build and deploy jobs (fixes missing `github-pages` artifact)
+
 ### Removed
 - Legacy `app.js`, `algorithms.js`, `ui.js`, `styles.css` and the "Quantum" mode
 
