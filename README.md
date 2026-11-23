@@ -12,7 +12,7 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/shiroonigami23-ui/Chess-Algorithms-?quickstart=1) [![Download ZIP](https://img.shields.io/badge/Download-ZIP-2ea44f?style=flat-square&logo=github)](https://github.com/shiroonigami23-ui/Chess-Algorithms-/archive/refs/heads/main.zip)
 
-[**🚀 Live Demo**](https://shiroonigami23-ui.github.io/Chess-Algorithms-/) · [**Overview**](#-overview) · [**Features**](#-features) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started) · [**Roadmap**](#-roadmap)
+[**🚀 Live Demo**](https://shiroonigami23-ui.github.io/Chess-Algorithms/) · [**Overview**](#-overview) · [**Features**](#-features) · [**Architecture**](#-architecture) · [**Getting Started**](#-getting-started) · [**Roadmap**](#-roadmap)
 
 </div>
 
