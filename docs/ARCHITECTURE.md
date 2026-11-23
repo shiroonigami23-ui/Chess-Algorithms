@@ -44,3 +44,14 @@ flowchart LR
 
 ---
 *Last updated: 2026-11-13*
+
+---
+
+## v2 update
+
+The v1 description above is superseded. The hub is now Vite + TypeScript + Three.js:
+
+- `src/core` — pure logic (board, `MinHeap`, 7 pathfinders emitting event traces, puzzles, algorithm catalog, `PathReplay` with snapshots every 192 events).
+- `src/render` — `Board2D` canvas renderer and lazily created `Scene3D` (EffectComposer + UnrealBloom, InstancedMesh columns).
+- `src/ui` — store synced to the URL hash, player clock, widgets, `createStage` (2D/3D toggle).
+- `src/labs` — one module per lab, mounted by the hash router in `src/main.ts`.
